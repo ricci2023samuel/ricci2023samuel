@@ -1,3 +1,5 @@
+![GitHub Views](https://komarev.com/ghpvc/?username=ricci2023samuel&color=2685BF)
+
 ### <h2> Hi, I'm Samuel Ricci.! 👋</h2>
 
 
