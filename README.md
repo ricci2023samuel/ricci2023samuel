@@ -14,7 +14,7 @@ const thai = {
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/fernandomireles](https://www.linkedin.com/in/fernandomireles/)
+- LinkedIn: [linkedin.com/in/SamuelRicci](https://www.linkedin.com/in/samuel-ricci-contreras-b6411923b/)
 - Instagram: [instagram.com/SamuelRicci](https://www.instagram.com/samuelleninriccicontreras/)
 - Facebook: [facebook.com/SamuelRicci](https://www.facebook.com/profile.php?id=100080816637078)
 
