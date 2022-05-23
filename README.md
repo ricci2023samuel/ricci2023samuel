@@ -27,7 +27,7 @@ i will be happy to meet you</b> :)</em>
 ---
 
 😄 ![GitHub Views](https://komarev.com/ghpvc/?username=ricci2023samuel&color=2685BF)
-😄 From [@ricci2023samuel](https://github.com/ricci2023samuel)
+
 
 
 
